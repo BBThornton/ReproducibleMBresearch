@@ -91,6 +91,8 @@ class retrieveFromTable:
         """
         if not os.path.exists(path):
             os.makedirs(path)
+            return True
+        return False
 
     def parseTable(self, jsonTable):
         """
@@ -114,10 +116,10 @@ class retrieveFromTable:
         ftp = ftpDownloader()
         for sample in self.data:
             path = os.path.join(self.outputDir, sample['run_accession'])
-            self.checkExists(path)
-            ftp.update_url(sample['fastq_ftp'])
-            ftp.update_output_dir(path)
-            ftp.download()
+            if self.checkExists(path):
+                ftp.update_url(sample['fastq_ftp'])
+                ftp.update_output_dir(path)
+                ftp.download()
             self.insertDB(sample, path)
             print("Sample", str(self.data.index(sample)), "Downloaded")
         ftp.close()
