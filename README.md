@@ -15,6 +15,12 @@ qiime2 - These are all the services that actually perform the microbiome researc
 You must have docker installed locally on your system in order to use this pipeline you can download docker at 
 https://www.docker.com/.
 
+You must then create an external network using the following command
+`docker network create mongo-net`
+
+And an external Volume for the mongodb database
+`docker volume create --name=mongodb_data`
+
 
 
 ## Deployment Instructions
@@ -33,7 +39,10 @@ To download the samples you  must run a separate set of containers which downloa
 to the database as needed.
 
 This can be done by navigating to the Dataingest folder and running the command `docker-compose up` this will then download
-the samples based on the file report.json file.
+the samples based on the file report.json file. Due to the large number of samples that need downloading this process
+may fail due to a system which prevents download spam and thus take multiple attempts. 
+As the service saves each sample individually progress will not be lost if this happens simply re-run the above command.
+
 
 This file is created by navigating to the ENA and downloading the summary table including the sample alias. As shown in 
 the image. This table is available at https://www.ebi.ac.uk/ena/browser/view/PRJNA82111.
@@ -42,6 +51,8 @@ the image. This table is available at https://www.ebi.ac.uk/ena/browser/view/PRJ
 
 Additionaly this process will also store the metadata of the samples into the database. This data is read from the 
 osccar_prism_metadata.txt file which was retrieved from http://huttenhower.sph.harvard.edu/ibd2012 but is provided in this repo.
+
+After this process is complete close the database container and proceed to the next step
 
 ### Silva 111
 To run the architecture to get results using the Silva 111 Reference database simply run the `silva111.sh` file. This will
