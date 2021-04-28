@@ -1,4 +1,6 @@
-  prometheus:
+# To enable resource monitoring add these services to the docker compose file  
+
+prometheus:
     image: prom/prometheus:latest
     container_name: prometheus
     ports:
@@ -22,3 +24,4 @@
       - /var/run:/var/run:rw
       - /sys:/sys:ro
       - /var/lib/docker/:/var/lib/docker:ro
+
