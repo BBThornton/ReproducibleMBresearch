@@ -22,7 +22,7 @@ services:
       python -u ena_download.py
     volumes:
       - ./filereport_read_run_PRJNA82111_json.txt:/ena_download/table.txt
-      - ../testdata:/ena_download/data
+      - ../PipelineOutput:/ena_download/data
       - ../mongo_service/db_interface/pymongoClient:/ena_download/pymongoClient
     networks:
       - mongo-net
