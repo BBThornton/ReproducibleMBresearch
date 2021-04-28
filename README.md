@@ -27,7 +27,7 @@ And an external Volume for the mongodb database
 In order to deploy this pipeline first clone the github repository.
 Then navigate to the root folder of the project. You many need to make a folder named PipelineOutput if it does not already exist.
 
-Additionaly you must also download the taxanomic classifiers files from this onedrive link:
+Additionaly you must also download the taxanomic classifier files from this onedrive link:
 
 https://1drv.ms/u/s!Aus7JUVmM6BTgbsirlMW6ddWK-bn7Q?e=wNHBJD
 
@@ -101,6 +101,13 @@ due to file size restrictions.
 Service monitoring noted in the write up for this project was performed using CAdvisor and Prometheus these containers
 were added to the docker compose file and were accessed using there web based uis. The service definitions for these
 are included in the additional folder under `ResourceMonitor`
+
+Also In the Additional folder there is the code that was used to train the Naive bayes
+classifiers on the different reference database. Simply `docker compose up` in the
+folder to perform the function.
+NOTE: this is extremely resource intensive (+7 hours runtime on a 24 thread cpu) and you will need to download the
+reference database files from the onedrive storage
+https://1drv.ms/u/s!Aus7JUVmM6BTgbsirlMW6ddWK-bn7Q?e=wNHBJD
 
 Some of the services provide such as Taxonomic classification are extremely resource intensive and can take up to 40 GB 
 of ram and take over 30 minutes please be aware.
