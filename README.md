@@ -22,7 +22,7 @@ the samples based on the file report.json file.
 This file is created by navigating to the ENA and downloading the summary table including the sample alias. As shown in 
 the image. This table is available at https://www.ebi.ac.uk/ena/browser/view/PRJNA82111.
 
-![ENA Browser](/readme_images/ENABrowser.png)
+![ENA Browser](./readme_images/ENABrowser.png)
 
 Additionaly this process will also store the metadata of the samples into the database. This data is read from the 
 osccar_prism_metadata.txt file which was retrieved from http://huttenhower.sph.harvard.edu/ibd2012 but is provided in this repo.
@@ -42,7 +42,7 @@ All qiime2 files `.qza` and `.qzv` can be viewed at https://view.qiime2.org/.
 ## Available Analysis Services
 A summary of the currently available services can be seen in this image
 
-![services](/readme_images/services2.png)
+![services](./readme_images/services2.png)
 
 Details of these services and their possible parameters can allso be seen by querying the database of consulting the 
 `services_defs.json` file in the `mongoservice\db_init` directory
@@ -52,7 +52,7 @@ In order to add new services the services must be added to the `services_defs.js
 defined in the docker compose file. This should be easy enough if you follow for format of the other containers.
 This is also true for the implementation of your service. Much of each service is a boilerplate flow see image for example.
 
-![Individual service](/readme_images/individualservice.svg)
+![Individual service](./readme_images/individualservice.svg)
 
 To change the parameters of the preexisitng services simply deteremine the parameters you wish to change and edit the 
 relevant .env file where appropriate. You could also define your own docker-compose and .env file for custom workflows.
