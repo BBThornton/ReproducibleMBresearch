@@ -2,6 +2,15 @@
 This project provides the necessary code to implement a reproducible analysis pipleine for microbiome rearch which uses
 Qiime2 tools to perform microbiome analysis.
 
+## File structure
+Additional - contains all additional files that are not executed as part of the analysis pipeline
+
+DataIngest - A set of services that focus on downloading a processing the raw sequences and metadata
+
+mongo_service - All the services that create and deploy the mongoDB database
+
+qiime2 - These are all the services that actually perform the microbiome research
+
 ## Prerequisites
 You must have docker installed locally on your system in order to use this pipeline you can download docker at 
 https://www.docker.com/.
@@ -74,7 +83,8 @@ with the command `use metagenomic`.
 
 ## Pre procesed results
 The pipelineOuput folder contains the primary results generated as part of the case study for the project write up.
-The means you do not need to process this pipeline to see the results. 
+The means you do not need to process this pipeline to see the results. It does however not include the raw sample data
+due to file size restrictions.
 
 # Additional Information
 Service monitoring noted in the write up for this project was performed using CAdvisor and Prometheus these containers
