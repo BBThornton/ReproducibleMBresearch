@@ -1,0 +1,17 @@
+version: '3.9'
+services:
+  database_init:
+    build:
+     context: .
+     dockerfile: Dockerfile
+    logging:
+      driver: "none"
+
+    networks:
+      - mongo-net
+
+networks:
+  mongo-net:
+    external: true
+    name: mongo-net
+    driver: bridge

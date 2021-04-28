@@ -1,0 +1,55 @@
+sample_metadata = qiime2.Metadata.load("stacked/metadata.tsv")
+old_table = qiime2.Artifact.load("stacked/old_frequency_uid_collapsed_table.qza")
+old_taxonomy = qiime2.Artifact.load("stacked/old_classified_taxa.qza")
+n_table = qiime2.Artifact.load("stacked/new_frequency_uid_collapsed_table.qza")
+n_taxonomy = qiime2.Artifact.load("stacked/new_classified_taxa.qza")
+
+otable_df = old_table.view(pd.DataFrame)
+otaxonomy_df = old_taxonomy.view(pd.DataFrame)
+
+otaxons = list(otaxonomy_df['Taxon'])
+newTaxons = []
+for i in range(0,len(otaxons)):
+    name = otaxons[i]
+    classififaction = ['d__','p','c','o','f','g','s','ss']
+    spl = name.split(';')
+    for i in range(0,len(spl)):
+        spl[i] = classififaction[i] + spl[i].strip()
+    newTaxons.append(";".join(spl) )
+
+otaxonomy_df['Taxon'] = newTaxons
+# otaxonomy_df
+
+meta_df = sample_metadata.to_dataframe()
+new_index = [sid + "N" for sid in meta_df.index]
+meta_df_N = meta_df.copy()
+meta_df_N.index = new_index
+frames = [meta_df, meta_df_N]
+sample_metadata2 = pd.concat(frames)
+sample_metadata2.index.name = "sample id"
+sample_metadata = qiime2.metadata.Metadata(sample_metadata2)
+
+ntable_df = n_table.view(pd.DataFrame)
+ntaxonomy_df = n_taxonomy.view(pd.DataFrame)
+
+new_index = [fid + "N" for fid in ntaxonomy_df.index]
+ntaxonomy_df.index = new_index
+
+new_headers = [fid + "N" for fid in ntable_df.columns]
+new_sample_ids = [sid + "N" for sid in ntable_df.index]
+
+ntable_df.columns = new_headers
+ntable_df.index = new_sample_ids
+
+ntable = qiime2.Artifact.import_data("FeatureTable[Frequency]", ntable_df)
+
+
+
+sample_taxa_df = pd.concat([otaxonomy_df,ntaxonomy_df])
+sample_taxa_df.index.name = "Feature ID"
+merged_taxa =  qiime2.Artifact.import_data("FeatureData[Taxonomy]", sample_taxa_df)
+
+merged_table = feature_table.methods.merge([ntable,old_table])
+
+stacked_boxplot = taxa.visualizers.barplot(merged_table.merged_table, merged_taxa, sample_metadata)
+stacked_boxplot.visualization.save("stacked/STACKED")

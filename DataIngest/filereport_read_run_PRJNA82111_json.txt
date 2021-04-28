@@ -1,0 +1,551 @@
+[
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737300","experiment_accession":"SRX190470","run_accession":"SRR578290","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578290/SRR578290.fastq.gz","sample_alias":"PRJNA82111.7295"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737302","experiment_accession":"SRX190474","run_accession":"SRR578292","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578292/SRR578292.fastq.gz","sample_alias":"PRJNA82111.100062"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737303","experiment_accession":"SRX190477","run_accession":"SRR578294","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578294/SRR578294.fastq.gz","sample_alias":"PRJNA82111.100089"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737305","experiment_accession":"SRX190478","run_accession":"SRR578295","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578295/SRR578295.fastq.gz","sample_alias":"PRJNA82111.100092"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737309","experiment_accession":"SRX190482","run_accession":"SRR578296","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578296/SRR578296.fastq.gz","sample_alias":"PRJNA82111.100139"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737310","experiment_accession":"SRX190483","run_accession":"SRR578297","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578297/SRR578297.fastq.gz","sample_alias":"PRJNA82111.100143"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737301","experiment_accession":"SRX190473","run_accession":"SRR578321","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578321/SRR578321.fastq.gz","sample_alias":"PRJNA82111.MGH101746"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737304","experiment_accession":"SRX190476","run_accession":"SRR578322","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578322/SRR578322.fastq.gz","sample_alias":"PRJNA82111.100087"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737306","experiment_accession":"SRX190479","run_accession":"SRR578323","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578323/SRR578323.fastq.gz","sample_alias":"PRJNA82111.100102"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737307","experiment_accession":"SRX190480","run_accession":"SRR578324","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578324/SRR578324.fastq.gz","sample_alias":"PRJNA82111.100106"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737308","experiment_accession":"SRX190481","run_accession":"SRR578325","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578325/SRR578325.fastq.gz","sample_alias":"PRJNA82111.100107"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737348","experiment_accession":"SRX190511","run_accession":"SRR578326","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578326/SRR578326.fastq.gz","sample_alias":"PRJNA82111.7175A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737344","experiment_accession":"SRX190502","run_accession":"SRR578327","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578327/SRR578327.fastq.gz","sample_alias":"PRJNA82111.100183"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00709475","experiment_accession":"SRX190503","run_accession":"SRR578328","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578328/SRR578328.fastq.gz","sample_alias":"PRJNA82111.100155"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737347","experiment_accession":"SRX190510","run_accession":"SRR578329","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578329/SRR578329.fastq.gz","sample_alias":"PRJNA82111.7385"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00709476","experiment_accession":"SRX190506","run_accession":"SRR578330","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578330/SRR578330.fastq.gz","sample_alias":"PRJNA82111.100177"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737349","experiment_accession":"SRX190508","run_accession":"SRR578331","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578331/SRR578331.fastq.gz","sample_alias":"PRJNA82111.100195"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737346","experiment_accession":"SRX190509","run_accession":"SRR578332","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578332/SRR578332.fastq.gz","sample_alias":"PRJNA82111.7860"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00709474","experiment_accession":"SRX190507","run_accession":"SRR578333","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578333/SRR578333.fastq.gz","sample_alias":"PRJNA82111.100151"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737345","experiment_accession":"SRX190504","run_accession":"SRR578334","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578334/SRR578334.fastq.gz","sample_alias":"PRJNA82111.7908"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00709477","experiment_accession":"SRX190505","run_accession":"SRR578335","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578335/SRR578335.fastq.gz","sample_alias":"PRJNA82111.100182"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737416","experiment_accession":"SRX190543","run_accession":"SRR578344","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578344/SRR578344.fastq.gz","sample_alias":"PRJNA82111.7153"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737412","experiment_accession":"SRX190707","run_accession":"SRR578345","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578345/SRR578345.fastq.gz","sample_alias":"PRJNA82111.7361"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737508","experiment_accession":"SRX190661","run_accession":"SRR578346","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578346/SRR578346.fastq.gz","sample_alias":"PRJNA82111.7906"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737478","experiment_accession":"SRX190604","run_accession":"SRR578347","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578347/SRR578347.fastq.gz","sample_alias":"PRJNA82111.100207"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737506","experiment_accession":"SRX190629","run_accession":"SRR578348","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578348/SRR578348.fastq.gz","sample_alias":"PRJNA82111.MGH104169"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737578","experiment_accession":"SRX190689","run_accession":"SRR578349","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578349/SRR578349.fastq.gz","sample_alias":"PRJNA82111.7355"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737426","experiment_accession":"SRX190706","run_accession":"SRR578350","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578350/SRR578350.fastq.gz","sample_alias":"PRJNA82111.7298"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737457","experiment_accession":"SRX190611","run_accession":"SRR578351","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578351/SRR578351.fastq.gz","sample_alias":"PRJNA82111.100105"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737505","experiment_accession":"SRX190583","run_accession":"SRR578352","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578352/SRR578352.fastq.gz","sample_alias":"PRJNA82111.7141"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737524","experiment_accession":"SRX190606","run_accession":"SRR578353","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578353/SRR578353.fastq.gz","sample_alias":"PRJNA82111.7085"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737447","experiment_accession":"SRX190579","run_accession":"SRR578354","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578354/SRR578354.fastq.gz","sample_alias":"PRJNA82111.100058"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737510","experiment_accession":"SRX190669","run_accession":"SRR578355","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578355/SRR578355.fastq.gz","sample_alias":"PRJNA82111.7039"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737548","experiment_accession":"SRX190601","run_accession":"SRR578356","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578356/SRR578356.fastq.gz","sample_alias":"PRJNA82111.7265"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737600","experiment_accession":"SRX190519","run_accession":"SRR578357","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578357/SRR578357.fastq.gz","sample_alias":"PRJNA82111.100157"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737432","experiment_accession":"SRX190635","run_accession":"SRR578358","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578358/SRR578358.fastq.gz","sample_alias":"PRJNA82111.7200"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737561","experiment_accession":"SRX190684","run_accession":"SRR578359","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578359/SRR578359.fastq.gz","sample_alias":"PRJNA82111.7018"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737408","experiment_accession":"SRX190582","run_accession":"SRR578360","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578360/SRR578360.fastq.gz","sample_alias":"PRJNA82111.7664"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737502","experiment_accession":"SRX190546","run_accession":"SRR578361","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578361/SRR578361.fastq.gz","sample_alias":"PRJNA82111.100198"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737579","experiment_accession":"SRX190679","run_accession":"SRR578362","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578362/SRR578362.fastq.gz","sample_alias":"PRJNA82111.7233"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737488","experiment_accession":"SRX190595","run_accession":"SRR578363","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578363/SRR578363.fastq.gz","sample_alias":"PRJNA82111.7879"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737498","experiment_accession":"SRX190715","run_accession":"SRR578364","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578364/SRR578364.fastq.gz","sample_alias":"PRJNA82111.7164"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737443","experiment_accession":"SRX190701","run_accession":"SRR578365","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578365/SRR578365.fastq.gz","sample_alias":"PRJNA82111.7904"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737576","experiment_accession":"SRX190664","run_accession":"SRR578366","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578366/SRR578366.fastq.gz","sample_alias":"PRJNA82111.MGH103405"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737423","experiment_accession":"SRX190710","run_accession":"SRR578367","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578367/SRR578367.fastq.gz","sample_alias":"PRJNA82111.100202"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737463","experiment_accession":"SRX190659","run_accession":"SRR578368","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578368/SRR578368.fastq.gz","sample_alias":"PRJNA82111.100109"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737571","experiment_accession":"SRX190552","run_accession":"SRR578369","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578369/SRR578369.fastq.gz","sample_alias":"PRJNA82111.100214"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737473","experiment_accession":"SRX190592","run_accession":"SRR578370","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578370/SRR578370.fastq.gz","sample_alias":"PRJNA82111.100088"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737527","experiment_accession":"SRX190680","run_accession":"SRR578371","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578371/SRR578371.fastq.gz","sample_alias":"PRJNA82111.100160"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737454","experiment_accession":"SRX190575","run_accession":"SRR578372","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578372/SRR578372.fastq.gz","sample_alias":"PRJNA82111.7847"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737456","experiment_accession":"SRX190652","run_accession":"SRR578373","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578373/SRR578373.fastq.gz","sample_alias":"PRJNA82111.7061"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737541","experiment_accession":"SRX190608","run_accession":"SRR578374","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578374/SRR578374.fastq.gz","sample_alias":"PRJNA82111.100052"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737598","experiment_accession":"SRX190632","run_accession":"SRR578375","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578375/SRR578375.fastq.gz","sample_alias":"PRJNA82111.7912"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737542","experiment_accession":"SRX190699","run_accession":"SRR578376","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578376/SRR578376.fastq.gz","sample_alias":"PRJNA82111.7347"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737417","experiment_accession":"SRX190634","run_accession":"SRR578377","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578377/SRR578377.fastq.gz","sample_alias":"PRJNA82111.100227"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737607","experiment_accession":"SRX190609","run_accession":"SRR578378","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578378/SRR578378.fastq.gz","sample_alias":"PRJNA82111.100221"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737492","experiment_accession":"SRX190545","run_accession":"SRR578379","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578379/SRR578379.fastq.gz","sample_alias":"PRJNA82111.7356"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737565","experiment_accession":"SRX190528","run_accession":"SRR578380","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578380/SRR578380.fastq.gz","sample_alias":"PRJNA82111.MGH102691"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737497","experiment_accession":"SRX190547","run_accession":"SRR578381","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578381/SRR578381.fastq.gz","sample_alias":"PRJNA82111.7178B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737500","experiment_accession":"SRX190677","run_accession":"SRR578382","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578382/SRR578382.fastq.gz","sample_alias":"PRJNA82111.7632"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737420","experiment_accession":"SRX190557","run_accession":"SRR578383","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578383/SRR578383.fastq.gz","sample_alias":"PRJNA82111.7135"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737533","experiment_accession":"SRX190584","run_accession":"SRR578384","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578384/SRR578384.fastq.gz","sample_alias":"PRJNA82111.100079"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737482","experiment_accession":"SRX190615","run_accession":"SRR578385","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578385/SRR578385.fastq.gz","sample_alias":"PRJNA82111.100009"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737431","experiment_accession":"SRX190565","run_accession":"SRR578386","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578386/SRR578386.fastq.gz","sample_alias":"PRJNA82111.7010"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737584","experiment_accession":"SRX190716","run_accession":"SRR578387","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578387/SRR578387.fastq.gz","sample_alias":"PRJNA82111.100104"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737599","experiment_accession":"SRX190676","run_accession":"SRR578388","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578388/SRR578388.fastq.gz","sample_alias":"PRJNA82111.100203"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737582","experiment_accession":"SRX190683","run_accession":"SRR578389","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578389/SRR578389.fastq.gz","sample_alias":"PRJNA82111.MGH103629"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737566","experiment_accession":"SRX190692","run_accession":"SRR578390","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578390/SRR578390.fastq.gz","sample_alias":"PRJNA82111.7003B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737558","experiment_accession":"SRX190581","run_accession":"SRR578391","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578391/SRR578391.fastq.gz","sample_alias":"PRJNA82111.7094B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737409","experiment_accession":"SRX190564","run_accession":"SRR578392","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578392/SRR578392.fastq.gz","sample_alias":"PRJNA82111.100205"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737469","experiment_accession":"SRX190544","run_accession":"SRR578393","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578393/SRR578393.fastq.gz","sample_alias":"PRJNA82111.100154"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737557","experiment_accession":"SRX190518","run_accession":"SRR578394","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578394/SRR578394.fastq.gz","sample_alias":"PRJNA82111.100090"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737514","experiment_accession":"SRX190713","run_accession":"SRR578395","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578395/SRR578395.fastq.gz","sample_alias":"PRJNA82111.100233"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737606","experiment_accession":"SRX190640","run_accession":"SRR578396","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578396/SRR578396.fastq.gz","sample_alias":"PRJNA82111.100175"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737439","experiment_accession":"SRX190619","run_accession":"SRR578397","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578397/SRR578397.fastq.gz","sample_alias":"PRJNA82111.100083"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737496","experiment_accession":"SRX190651","run_accession":"SRR578398","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578398/SRR578398.fastq.gz","sample_alias":"PRJNA82111.100043"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737575","experiment_accession":"SRX190712","run_accession":"SRR578399","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578399/SRR578399.fastq.gz","sample_alias":"PRJNA82111.7749"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737581","experiment_accession":"SRX190593","run_accession":"SRR578400","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578400/SRR578400.fastq.gz","sample_alias":"PRJNA82111.7775"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737572","experiment_accession":"SRX190610","run_accession":"SRR578401","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578401/SRR578401.fastq.gz","sample_alias":"PRJNA82111.MGH102806"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737529","experiment_accession":"SRX190527","run_accession":"SRR578402","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578402/SRR578402.fastq.gz","sample_alias":"PRJNA82111.100234"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737512","experiment_accession":"SRX190525","run_accession":"SRR578403","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578403/SRR578403.fastq.gz","sample_alias":"PRJNA82111.7064"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737480","experiment_accession":"SRX190556","run_accession":"SRR578404","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578404/SRR578404.fastq.gz","sample_alias":"PRJNA82111.100219"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737437","experiment_accession":"SRX190537","run_accession":"SRR578405","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578405/SRR578405.fastq.gz","sample_alias":"PRJNA82111.MGH103963"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737507","experiment_accession":"SRX190558","run_accession":"SRR578406","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578406/SRR578406.fastq.gz","sample_alias":"PRJNA82111.100078"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737568","experiment_accession":"SRX190620","run_accession":"SRR578407","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578407/SRR578407.fastq.gz","sample_alias":"PRJNA82111.7123"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737517","experiment_accession":"SRX190630","run_accession":"SRR578408","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578408/SRR578408.fastq.gz","sample_alias":"PRJNA82111.7250"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737587","experiment_accession":"SRX190614","run_accession":"SRR578409","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578409/SRR578409.fastq.gz","sample_alias":"PRJNA82111.100049"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737597","experiment_accession":"SRX190622","run_accession":"SRR578410","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578410/SRR578410.fastq.gz","sample_alias":"PRJNA82111.7621"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737521","experiment_accession":"SRX190529","run_accession":"SRR578411","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578411/SRR578411.fastq.gz","sample_alias":"PRJNA82111.7021"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737410","experiment_accession":"SRX190653","run_accession":"SRR578412","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578412/SRR578412.fastq.gz","sample_alias":"PRJNA82111.7225"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737518","experiment_accession":"SRX190612","run_accession":"SRR578413","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578413/SRR578413.fastq.gz","sample_alias":"PRJNA82111.100099"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737494","experiment_accession":"SRX190523","run_accession":"SRR578414","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578414/SRR578414.fastq.gz","sample_alias":"PRJNA82111.7610"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737499","experiment_accession":"SRX190616","run_accession":"SRR578415","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578415/SRR578415.fastq.gz","sample_alias":"PRJNA82111.100144"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737516","experiment_accession":"SRX190553","run_accession":"SRR578416","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578416/SRR578416.fastq.gz","sample_alias":"PRJNA82111.100180"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737589","experiment_accession":"SRX190515","run_accession":"SRR578417","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578417/SRR578417.fastq.gz","sample_alias":"PRJNA82111.MGH105371"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737483","experiment_accession":"SRX190549","run_accession":"SRR578418","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578418/SRR578418.fastq.gz","sample_alias":"PRJNA82111.7870"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737551","experiment_accession":"SRX190587","run_accession":"SRR578419","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578419/SRR578419.fastq.gz","sample_alias":"PRJNA82111.100016"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737605","experiment_accession":"SRX190643","run_accession":"SRR578420","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578420/SRR578420.fastq.gz","sample_alias":"PRJNA82111.100192"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737569","experiment_accession":"SRX190533","run_accession":"SRR578421","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578421/SRR578421.fastq.gz","sample_alias":"PRJNA82111.7079"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737595","experiment_accession":"SRX190516","run_accession":"SRR578422","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578422/SRR578422.fastq.gz","sample_alias":"PRJNA82111.7097"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737520","experiment_accession":"SRX190578","run_accession":"SRR578423","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578423/SRR578423.fastq.gz","sample_alias":"PRJNA82111.100211"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737495","experiment_accession":"SRX190657","run_accession":"SRR578424","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578424/SRR578424.fastq.gz","sample_alias":"PRJNA82111.100086"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737519","experiment_accession":"SRX190559","run_accession":"SRR578425","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578425/SRR578425.fastq.gz","sample_alias":"PRJNA82111.7844"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737601","experiment_accession":"SRX190562","run_accession":"SRR578426","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578426/SRR578426.fastq.gz","sample_alias":"PRJNA82111.7662"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737467","experiment_accession":"SRX190522","run_accession":"SRR578427","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578427/SRR578427.fastq.gz","sample_alias":"PRJNA82111.7855"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737474","experiment_accession":"SRX190623","run_accession":"SRR578428","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578428/SRR578428.fastq.gz","sample_alias":"PRJNA82111.100071"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737526","experiment_accession":"SRX190600","run_accession":"SRR578429","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578429/SRR578429.fastq.gz","sample_alias":"PRJNA82111.100187"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737553","experiment_accession":"SRX190517","run_accession":"SRR578430","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578430/SRR578430.fastq.gz","sample_alias":"PRJNA82111.100170"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737559","experiment_accession":"SRX190633","run_accession":"SRR578431","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578431/SRR578431.fastq.gz","sample_alias":"PRJNA82111.100197"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737596","experiment_accession":"SRX190524","run_accession":"SRR578432","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578432/SRR578432.fastq.gz","sample_alias":"PRJNA82111.7134"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737543","experiment_accession":"SRX190617","run_accession":"SRR578433","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578433/SRR578433.fastq.gz","sample_alias":"PRJNA82111.100190"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737556","experiment_accession":"SRX190535","run_accession":"SRR578434","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578434/SRR578434.fastq.gz","sample_alias":"PRJNA82111.7049"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737530","experiment_accession":"SRX190570","run_accession":"SRR578435","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578435/SRR578435.fastq.gz","sample_alias":"PRJNA82111.7313"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737422","experiment_accession":"SRX190654","run_accession":"SRR578436","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578436/SRR578436.fastq.gz","sample_alias":"PRJNA82111.MGH101635"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737564","experiment_accession":"SRX190605","run_accession":"SRR578437","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578437/SRR578437.fastq.gz","sample_alias":"PRJNA82111.100228"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737573","experiment_accession":"SRX190603","run_accession":"SRR578438","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578438/SRR578438.fastq.gz","sample_alias":"PRJNA82111.100165"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737466","experiment_accession":"SRX190663","run_accession":"SRR578439","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578439/SRR578439.fastq.gz","sample_alias":"PRJNA82111.MGH103909"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737406","experiment_accession":"SRX190586","run_accession":"SRR578440","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578440/SRR578440.fastq.gz","sample_alias":"PRJNA82111.7594"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737458","experiment_accession":"SRX190591","run_accession":"SRR578441","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578441/SRR578441.fastq.gz","sample_alias":"PRJNA82111.7125"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737449","experiment_accession":"SRX190675","run_accession":"SRR578442","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578442/SRR578442.fastq.gz","sample_alias":"PRJNA82111.MGH103939"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737586","experiment_accession":"SRX190698","run_accession":"SRR578443","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578443/SRR578443.fastq.gz","sample_alias":"PRJNA82111.100003"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737453","experiment_accession":"SRX190626","run_accession":"SRR578444","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578444/SRR578444.fastq.gz","sample_alias":"PRJNA82111.7859"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737528","experiment_accession":"SRX190550","run_accession":"SRR578445","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578445/SRR578445.fastq.gz","sample_alias":"PRJNA82111.7242A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737504","experiment_accession":"SRX190647","run_accession":"SRR578446","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578446/SRR578446.fastq.gz","sample_alias":"PRJNA82111.7003A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737604","experiment_accession":"SRX190704","run_accession":"SRR578447","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578447/SRR578447.fastq.gz","sample_alias":"PRJNA82111.7116"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737465","experiment_accession":"SRX190555","run_accession":"SRR578448","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578448/SRR578448.fastq.gz","sample_alias":"PRJNA82111.7284"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737451","experiment_accession":"SRX190687","run_accession":"SRR578449","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578449/SRR578449.fastq.gz","sample_alias":"PRJNA82111.100158"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737534","experiment_accession":"SRX190685","run_accession":"SRR578450","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578450/SRR578450.fastq.gz","sample_alias":"PRJNA82111.100101"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737448","experiment_accession":"SRX190530","run_accession":"SRR578451","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578451/SRR578451.fastq.gz","sample_alias":"PRJNA82111.7043"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737513","experiment_accession":"SRX190573","run_accession":"SRR578452","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578452/SRR578452.fastq.gz","sample_alias":"PRJNA82111.100060"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737489","experiment_accession":"SRX190621","run_accession":"SRR578453","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578453/SRR578453.fastq.gz","sample_alias":"PRJNA82111.100178"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737481","experiment_accession":"SRX190627","run_accession":"SRR578454","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578454/SRR578454.fastq.gz","sample_alias":"PRJNA82111.7130"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737536","experiment_accession":"SRX190662","run_accession":"SRR578455","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578455/SRR578455.fastq.gz","sample_alias":"PRJNA82111.7228"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737452","experiment_accession":"SRX190682","run_accession":"SRR578456","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578456/SRR578456.fastq.gz","sample_alias":"PRJNA82111.100212"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737479","experiment_accession":"SRX190542","run_accession":"SRR578457","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578457/SRR578457.fastq.gz","sample_alias":"PRJNA82111.MGH104504"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737446","experiment_accession":"SRX190585","run_accession":"SRR578458","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578458/SRR578458.fastq.gz","sample_alias":"PRJNA82111.MGH100512"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737486","experiment_accession":"SRX190590","run_accession":"SRR578459","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578459/SRR578459.fastq.gz","sample_alias":"PRJNA82111.7454"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737562","experiment_accession":"SRX190639","run_accession":"SRR578460","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578460/SRR578460.fastq.gz","sample_alias":"PRJNA82111.7614"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737424","experiment_accession":"SRX190613","run_accession":"SRR578461","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578461/SRR578461.fastq.gz","sample_alias":"PRJNA82111.100156"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737593","experiment_accession":"SRX190686","run_accession":"SRR578462","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578462/SRR578462.fastq.gz","sample_alias":"PRJNA82111.100226"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737523","experiment_accession":"SRX190599","run_accession":"SRR578463","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578463/SRR578463.fastq.gz","sample_alias":"PRJNA82111.7126"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737471","experiment_accession":"SRX190656","run_accession":"SRR578464","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578464/SRR578464.fastq.gz","sample_alias":"PRJNA82111.100191"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737580","experiment_accession":"SRX190540","run_accession":"SRR578465","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578465/SRR578465.fastq.gz","sample_alias":"PRJNA82111.7858"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737459","experiment_accession":"SRX190554","run_accession":"SRR578466","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578466/SRR578466.fastq.gz","sample_alias":"PRJNA82111.7022"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737585","experiment_accession":"SRX190672","run_accession":"SRR578467","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578467/SRR578467.fastq.gz","sample_alias":"PRJNA82111.7124"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737438","experiment_accession":"SRX190666","run_accession":"SRR578468","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578468/SRR578468.fastq.gz","sample_alias":"PRJNA82111.7615"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737464","experiment_accession":"SRX190534","run_accession":"SRR578469","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578469/SRR578469.fastq.gz","sample_alias":"PRJNA82111.100117"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737509","experiment_accession":"SRX190624","run_accession":"SRR578470","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578470/SRR578470.fastq.gz","sample_alias":"PRJNA82111.100100"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737592","experiment_accession":"SRX190597","run_accession":"SRR578471","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578471/SRR578471.fastq.gz","sample_alias":"PRJNA82111.100075"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737461","experiment_accession":"SRX190645","run_accession":"SRR578472","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578472/SRR578472.fastq.gz","sample_alias":"PRJNA82111.7129"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737405","experiment_accession":"SRX190658","run_accession":"SRR578473","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578473/SRR578473.fastq.gz","sample_alias":"PRJNA82111.100048"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737460","experiment_accession":"SRX190642","run_accession":"SRR578474","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578474/SRR578474.fastq.gz","sample_alias":"PRJNA82111.7181"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737487","experiment_accession":"SRX190572","run_accession":"SRR578475","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578475/SRR578475.fastq.gz","sample_alias":"PRJNA82111.100196"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737476","experiment_accession":"SRX190607","run_accession":"SRR578476","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578476/SRR578476.fastq.gz","sample_alias":"PRJNA82111.100176"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737552","experiment_accession":"SRX190571","run_accession":"SRR578477","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578477/SRR578477.fastq.gz","sample_alias":"PRJNA82111.100224"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737554","experiment_accession":"SRX190521","run_accession":"SRR578478","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578478/SRR578478.fastq.gz","sample_alias":"PRJNA82111.100077"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737549","experiment_accession":"SRX190691","run_accession":"SRR578479","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578479/SRR578479.fastq.gz","sample_alias":"PRJNA82111.7624"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737414","experiment_accession":"SRX190548","run_accession":"SRR578480","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578480/SRR578480.fastq.gz","sample_alias":"PRJNA82111.MGH103070"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737574","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.Non MGH103121"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737565","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH102691"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737608","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH102725"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737582","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH103629"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737503","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH102692"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737466","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH103909"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737446","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH100512"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737470","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.Inf MGH103120"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737301","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH101746"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737576","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH103405"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737567","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH104890"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737422","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH101635"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737589","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH105371"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737425","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH101598"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737414","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH103070"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737479","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH104504"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737455","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH103562"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737506","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"PRJNA82111.MGH104169"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00009845","experiment_accession":"SRX190674","run_accession":"SRR578481","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578481/SRR578481.fastq.gz","sample_alias":"unidentified"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737407","experiment_accession":"SRX190602","run_accession":"SRR578482","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578482/SRR578482.fastq.gz","sample_alias":"PRJNA82111.7429"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737515","experiment_accession":"SRX190668","run_accession":"SRR578483","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578483/SRR578483.fastq.gz","sample_alias":"PRJNA82111.100167"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737418","experiment_accession":"SRX190694","run_accession":"SRR578484","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578484/SRR578484.fastq.gz","sample_alias":"PRJNA82111.7094A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737545","experiment_accession":"SRX190536","run_accession":"SRR578485","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578485/SRR578485.fastq.gz","sample_alias":"PRJNA82111.100070"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737421","experiment_accession":"SRX190709","run_accession":"SRR578486","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578486/SRR578486.fastq.gz","sample_alias":"PRJNA82111.100115"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737555","experiment_accession":"SRX190648","run_accession":"SRR578487","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578487/SRR578487.fastq.gz","sample_alias":"PRJNA82111.7871"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737522","experiment_accession":"SRX190526","run_accession":"SRR578488","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578488/SRR578488.fastq.gz","sample_alias":"PRJNA82111.100001"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737590","experiment_accession":"SRX190636","run_accession":"SRR578489","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578489/SRR578489.fastq.gz","sample_alias":"PRJNA82111.7360"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737501","experiment_accession":"SRX190693","run_accession":"SRR578490","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578490/SRR578490.fastq.gz","sample_alias":"PRJNA82111.7102"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737532","experiment_accession":"SRX190576","run_accession":"SRR578491","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578491/SRR578491.fastq.gz","sample_alias":"PRJNA82111.7861"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737429","experiment_accession":"SRX190673","run_accession":"SRR578492","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578492/SRR578492.fastq.gz","sample_alias":"PRJNA82111.7077B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737428","experiment_accession":"SRX190594","run_accession":"SRR578493","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578493/SRR578493.fastq.gz","sample_alias":"PRJNA82111.100051"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737547","experiment_accession":"SRX190641","run_accession":"SRR578494","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578494/SRR578494.fastq.gz","sample_alias":"PRJNA82111.100206"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737563","experiment_accession":"SRX190644","run_accession":"SRR578495","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578495/SRR578495.fastq.gz","sample_alias":"PRJNA82111.100162"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737434","experiment_accession":"SRX190708","run_accession":"SRR578496","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578496/SRR578496.fastq.gz","sample_alias":"PRJNA82111.100174"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737442","experiment_accession":"SRX190705","run_accession":"SRR578497","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578497/SRR578497.fastq.gz","sample_alias":"PRJNA82111.100163"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737433","experiment_accession":"SRX190665","run_accession":"SRR578498","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578498/SRR578498.fastq.gz","sample_alias":"PRJNA82111.7154"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737537","experiment_accession":"SRX190703","run_accession":"SRR578499","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578499/SRR578499.fastq.gz","sample_alias":"PRJNA82111.7365"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737602","experiment_accession":"SRX190560","run_accession":"SRR578500","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578500/SRR578500.fastq.gz","sample_alias":"PRJNA82111.7287"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737540","experiment_accession":"SRX190678","run_accession":"SRR578501","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578501/SRR578501.fastq.gz","sample_alias":"PRJNA82111.7072"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737430","experiment_accession":"SRX190531","run_accession":"SRR578502","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578502/SRR578502.fastq.gz","sample_alias":"PRJNA82111.7117"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737485","experiment_accession":"SRX190539","run_accession":"SRR578503","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578503/SRR578503.fastq.gz","sample_alias":"PRJNA82111.100091"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737450","experiment_accession":"SRX190561","run_accession":"SRR578504","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578504/SRR578504.fastq.gz","sample_alias":"PRJNA82111.100084"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737415","experiment_accession":"SRX190695","run_accession":"SRR578505","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578505/SRR578505.fastq.gz","sample_alias":"PRJNA82111.100074"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737608","experiment_accession":"SRX190714","run_accession":"SRR578506","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578506/SRR578506.fastq.gz","sample_alias":"PRJNA82111.MGH102725"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737472","experiment_accession":"SRX190655","run_accession":"SRR578507","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578507/SRR578507.fastq.gz","sample_alias":"PRJNA82111.100096"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737468","experiment_accession":"SRX190598","run_accession":"SRR578508","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578508/SRR578508.fastq.gz","sample_alias":"PRJNA82111.100200"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737462","experiment_accession":"SRX190532","run_accession":"SRR578509","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578509/SRR578509.fastq.gz","sample_alias":"PRJNA82111.7911"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737427","experiment_accession":"SRX190625","run_accession":"SRR578510","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578510/SRR578510.fastq.gz","sample_alias":"PRJNA82111.7325"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737491","experiment_accession":"SRX190670","run_accession":"SRR578511","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578511/SRR578511.fastq.gz","sample_alias":"PRJNA82111.100181"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737440","experiment_accession":"SRX190580","run_accession":"SRR578512","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578512/SRR578512.fastq.gz","sample_alias":"PRJNA82111.7862"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737609","experiment_accession":"SRX190711","run_accession":"SRR578513","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578513/SRR578513.fastq.gz","sample_alias":"PRJNA82111.7052"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737419","experiment_accession":"SRX190596","run_accession":"SRR578514","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578514/SRR578514.fastq.gz","sample_alias":"PRJNA82111.7175B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737503","experiment_accession":"SRX190628","run_accession":"SRR578515","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578515/SRR578515.fastq.gz","sample_alias":"PRJNA82111.MGH102692"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737550","experiment_accession":"SRX190514","run_accession":"SRR578516","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578516/SRR578516.fastq.gz","sample_alias":"PRJNA82111.7909"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737531","experiment_accession":"SRX190638","run_accession":"SRR578517","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578517/SRR578517.fastq.gz","sample_alias":"PRJNA82111.7059"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737484","experiment_accession":"SRX190589","run_accession":"SRR578518","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578518/SRR578518.fastq.gz","sample_alias":"PRJNA82111.100068"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737535","experiment_accession":"SRX190650","run_accession":"SRR578519","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578519/SRR578519.fastq.gz","sample_alias":"PRJNA82111.7185"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737574","experiment_accession":"SRX190568","run_accession":"SRR578520","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578520/SRR578520.fastq.gz","sample_alias":"PRJNA82111.Non MGH103121"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737436","experiment_accession":"SRX190696","run_accession":"SRR578521","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578521/SRR578521.fastq.gz","sample_alias":"PRJNA82111.100184"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737435","experiment_accession":"SRX190649","run_accession":"SRR578522","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578522/SRR578522.fastq.gz","sample_alias":"PRJNA82111.100220"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737511","experiment_accession":"SRX190700","run_accession":"SRR578523","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578523/SRR578523.fastq.gz","sample_alias":"PRJNA82111.100217"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737444","experiment_accession":"SRX190577","run_accession":"SRR578524","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578524/SRR578524.fastq.gz","sample_alias":"PRJNA82111.7584"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737539","experiment_accession":"SRX190702","run_accession":"SRR578525","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578525/SRR578525.fastq.gz","sample_alias":"PRJNA82111.7910"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737538","experiment_accession":"SRX190681","run_accession":"SRR578526","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578526/SRR578526.fastq.gz","sample_alias":"PRJNA82111.7095"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737560","experiment_accession":"SRX190551","run_accession":"SRR578527","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578527/SRR578527.fastq.gz","sample_alias":"PRJNA82111.7352"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737567","experiment_accession":"SRX190618","run_accession":"SRR578528","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578528/SRR578528.fastq.gz","sample_alias":"PRJNA82111.MGH104890"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737445","experiment_accession":"SRX190567","run_accession":"SRR578529","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578529/SRR578529.fastq.gz","sample_alias":"PRJNA82111.100046"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737577","experiment_accession":"SRX190646","run_accession":"SRR578530","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578530/SRR578530.fastq.gz","sample_alias":"PRJNA82111.100085"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737525","experiment_accession":"SRX190588","run_accession":"SRR578531","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578531/SRR578531.fastq.gz","sample_alias":"PRJNA82111.100080"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737411","experiment_accession":"SRX190520","run_accession":"SRR578532","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578532/SRR578532.fastq.gz","sample_alias":"PRJNA82111.100015"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737475","experiment_accession":"SRX190667","run_accession":"SRR578533","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578533/SRR578533.fastq.gz","sample_alias":"PRJNA82111.7156"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737477","experiment_accession":"SRX190660","run_accession":"SRR578534","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578534/SRR578534.fastq.gz","sample_alias":"PRJNA82111.100222"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737603","experiment_accession":"SRX190563","run_accession":"SRR578535","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578535/SRR578535.fastq.gz","sample_alias":"PRJNA82111.100128"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737546","experiment_accession":"SRX190671","run_accession":"SRR578536","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578536/SRR578536.fastq.gz","sample_alias":"PRJNA82111.100169"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737588","experiment_accession":"SRX190631","run_accession":"SRR578537","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578537/SRR578537.fastq.gz","sample_alias":"PRJNA82111.100204"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737583","experiment_accession":"SRX190569","run_accession":"SRR578538","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578538/SRR578538.fastq.gz","sample_alias":"PRJNA82111.7178A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737413","experiment_accession":"SRX190574","run_accession":"SRR578539","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578539/SRR578539.fastq.gz","sample_alias":"PRJNA82111.7035"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737544","experiment_accession":"SRX190688","run_accession":"SRR578540","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578540/SRR578540.fastq.gz","sample_alias":"PRJNA82111.7077A"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737594","experiment_accession":"SRX190541","run_accession":"SRR578541","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578541/SRR578541.fastq.gz","sample_alias":"PRJNA82111.7016"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737591","experiment_accession":"SRX190690","run_accession":"SRR578542","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578542/SRR578542.fastq.gz","sample_alias":"PRJNA82111.7267"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737441","experiment_accession":"SRX190637","run_accession":"SRR578543","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578543/SRR578543.fastq.gz","sample_alias":"PRJNA82111.7242B"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737490","experiment_accession":"SRX190697","run_accession":"SRR578544","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578544/SRR578544.fastq.gz","sample_alias":"PRJNA82111.100166"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737570","experiment_accession":"SRX190566","run_accession":"SRR578545","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578545/SRR578545.fastq.gz","sample_alias":"PRJNA82111.7160"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737493","experiment_accession":"SRX190538","run_accession":"SRR578546","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR578/SRR578546/SRR578546.fastq.gz","sample_alias":"PRJNA82111.7251"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001773","experiment_accession":"SRX191207","run_accession":"SRR579603","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579603/SRR579603.fastq.gz","sample_alias":"PRJNA82111.7174"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001852","experiment_accession":"SRX191212","run_accession":"SRR579604","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579604/SRR579604.fastq.gz","sample_alias":"PRJNA82111.100173"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001844","experiment_accession":"SRX191237","run_accession":"SRR579605","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579605/SRR579605.fastq.gz","sample_alias":"PRJNA82111.100095"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737455","experiment_accession":"SRX191214","run_accession":"SRR579606","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579606/SRR579606.fastq.gz","sample_alias":"PRJNA82111.MGH103562"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737470","experiment_accession":"SRX191233","run_accession":"SRR579607","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579607/SRR579607.fastq.gz","sample_alias":"PRJNA82111.Inf MGH103120"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001840","experiment_accession":"SRX191232","run_accession":"SRR579608","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579608/SRR579608.fastq.gz","sample_alias":"PRJNA82111.100168"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001851","experiment_accession":"SRX191229","run_accession":"SRR579609","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579609/SRR579609.fastq.gz","sample_alias":"PRJNA82111.100188"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001772","experiment_accession":"SRX191230","run_accession":"SRR579610","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579610/SRR579610.fastq.gz","sample_alias":"PRJNA82111.7221"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001843","experiment_accession":"SRX191213","run_accession":"SRR579611","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579611/SRR579611.fastq.gz","sample_alias":"PRJNA82111.100161"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001845","experiment_accession":"SRX191215","run_accession":"SRR579612","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579612/SRR579612.fastq.gz","sample_alias":"PRJNA82111.100065"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001841","experiment_accession":"SRX191217","run_accession":"SRR579613","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579613/SRR579613.fastq.gz","sample_alias":"PRJNA82111.100047"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001839","experiment_accession":"SRX191225","run_accession":"SRR579614","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579614/SRR579614.fastq.gz","sample_alias":"PRJNA82111.100072"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001834","experiment_accession":"SRX191231","run_accession":"SRR579615","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579615/SRR579615.fastq.gz","sample_alias":"PRJNA82111.MGH102376"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001768","experiment_accession":"SRX191216","run_accession":"SRR579616","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579616/SRR579616.fastq.gz","sample_alias":"PRJNA82111.7848"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001835","experiment_accession":"SRX191235","run_accession":"SRR579617","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579617/SRR579617.fastq.gz","sample_alias":"PRJNA82111.MGH103803"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001842","experiment_accession":"SRX191228","run_accession":"SRR579618","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579618/SRR579618.fastq.gz","sample_alias":"PRJNA82111.100164"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001838","experiment_accession":"SRX191234","run_accession":"SRR579619","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579619/SRR579619.fastq.gz","sample_alias":"PRJNA82111.100150"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001757","experiment_accession":"SRX191222","run_accession":"SRR579620","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579620/SRR579620.fastq.gz","sample_alias":"PRJNA82111.7037"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001752","experiment_accession":"SRX191226","run_accession":"SRR579621","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579621/SRR579621.fastq.gz","sample_alias":"PRJNA82111.100229"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001771","experiment_accession":"SRX191238","run_accession":"SRR579622","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579622/SRR579622.fastq.gz","sample_alias":"PRJNA82111.7145"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001850","experiment_accession":"SRX191223","run_accession":"SRR579623","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579623/SRR579623.fastq.gz","sample_alias":"PRJNA82111.100171"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001754","experiment_accession":"SRX191219","run_accession":"SRR579624","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579624/SRR579624.fastq.gz","sample_alias":"PRJNA82111.7094C"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001755","experiment_accession":"SRX191227","run_accession":"SRR579625","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579625/SRR579625.fastq.gz","sample_alias":"PRJNA82111.7111"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001764","experiment_accession":"SRX191210","run_accession":"SRR579626","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579626/SRR579626.fastq.gz","sample_alias":"PRJNA82111.7646"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001750","experiment_accession":"SRX191224","run_accession":"SRR579627","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579627/SRR579627.fastq.gz","sample_alias":"PRJNA82111.100225"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN01737425","experiment_accession":"SRX191220","run_accession":"SRR579628","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579628/SRR579628.fastq.gz","sample_alias":"PRJNA82111.MGH101598"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001767","experiment_accession":"SRX191211","run_accession":"SRR579629","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579629/SRR579629.fastq.gz","sample_alias":"PRJNA82111.7899"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001848","experiment_accession":"SRX191239","run_accession":"SRR579630","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579630/SRR579630.fastq.gz","sample_alias":"PRJNA82111.100210"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001753","experiment_accession":"SRX191208","run_accession":"SRR579631","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579631/SRR579631.fastq.gz","sample_alias":"PRJNA82111.7007"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001770","experiment_accession":"SRX191209","run_accession":"SRR579632","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579632/SRR579632.fastq.gz","sample_alias":"PRJNA82111.7168"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001849","experiment_accession":"SRX191236","run_accession":"SRR579633","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579633/SRR579633.fastq.gz","sample_alias":"PRJNA82111.100172"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001846","experiment_accession":"SRX191218","run_accession":"SRR579634","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579634/SRR579634.fastq.gz","sample_alias":"PRJNA82111.100209"}
+,
+{"study_accession":"PRJNA82111","sample_accession":"SAMN00001847","experiment_accession":"SRX191221","run_accession":"SRR579635","tax_id":"408170","scientific_name":"human gut metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR579/SRR579635/SRR579635.fastq.gz","sample_alias":"PRJNA82111.100216"}
+]

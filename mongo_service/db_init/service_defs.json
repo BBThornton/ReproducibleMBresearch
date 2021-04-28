@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "Manifest_Creator",
+    "parent": null,
+    "input": null,
+    "output": {
+      "data": [
+        "manifest.txt"
+      ],
+      "visuals": null
+    },"params": {
+		"selection_criteria":"A Mongodb query that can be used to select samples from the database"
+	}
+  },
+   {
+    "_id": "Metadata_Creator",
+    "parent": "Manifest_Creator",
+    "input": null,
+    "output": {
+      "data": [
+        "metadata.tsv"
+      ],
+      "visuals": null
+    }
+  },
+  {
+    "_id": "Data_Import",
+    "parent": "Manifest_Creator",
+    "output": {
+      "data": [
+        "sequences.qza"
+      ],
+      "visuals": null
+    }
+  },
+  {
+    "_id": "Quality_Analysis",
+    "parent": "Data_Import",
+    "output": {
+      "data": [
+        "filtered_samples_table.qza",
+        "filtered_representative_sequences.qza",
+		"filtration_stats.qza"
+      ],
+      "visuals": [
+        "pre_qa_summary.qzv",
+        "post_qa_summary.qzv"
+      ]
+    },
+    "params": {
+      "denoise_pyro": {
+			"link_to_params":"https://docs.qiime2.org/2021.2/plugins/available/dada2/denoise-pyro/"
+        }
+    }
+  },
+  {
+    "_id": "Feature_Classification",
+    "parent": "Quality_Analysis",
+    "output": {
+      "data": [
+        "classified_taxa.qza"
+      ],
+      "visuals": [
+        "classified_taxa_table.qzv"
+      ]
+    },
+    "params": {
+      "classifier": "Name of the classifier to use \n Silva 132, Silva 138 or gengrenes",
+      "classify_sklearn": {
+        "reads_per_batch" : "Int % Range(0, None), optional\n    Number of reads to process in each batch. If \"auto\", this parameter is\n    autoscaled to min( number of query sequences / n_jobs, 20000).",
+        "n_jobs" : "Int, optional\n    The maximum number of concurrently worker processes. If -1 all CPUs are\n    used. If 1 is given, no parallel computing code is used at all, which\n    is useful for debugging. For n_jobs below -1, (n_cpus + 1 + n_jobs) are\n    used. Thus for n_jobs = -2, all CPUs but one are used.",
+        "pre_dispatch" : "Str, optional\n    \"all\" or expression, as in \"3*n_jobs\". The number of batches (of tasks)\n    to be pre-dispatched.",
+        "confidence" : "Float % Range(0, 1, inclusive_end=True) | Str % Choices('disable'), optional\n    Confidence threshold for limiting taxonomic depth. Set to \"disable\" to\n    disable confidence calculation, or 0 to calculate confidence but not\n    apply it to limit the taxonomic depth of the assignments.",
+        "read_orientation" : "Str % Choi ces('same', 'reverse-complement', 'auto'), optional\n    Direction of reads with respect to reference sequences. same will cause\n    reads to be classified unchanged; reverse-complement will cause reads\n    to be reversed and complemented prior to classification. \"auto\" will\n    autodetect orientation based on the confidence estimates for the first\n    100 reads."
+      }
+    }
+  },
+  {
+    "_id": "Rooted_Tree",
+    "parent": "Quality_Analysis",
+    "output": {
+      "data": [
+        "rooted_tree.qza"
+      ]
+    }
+  },
+
+  {
+    "_id": "Frequency_Tables",
+    "parent": "Feature_Classification",
+    "output": {
+      "data": [
+        "frequency_otu_collapsed_table.qza",
+        "frequency_uid_collapsed_table.qza",
+        "relative_otu_freq_collapsed_table.qza",
+        "relative_uid_freq_collapsed_table.qza"
+      ],
+      "visuals": [
+        "id_freq_table.qzv",
+        "otu_freq_table.qzv",
+        "id_relative_freq_table.qzv",
+        "otu_relative_freq_table.qzv",
+        "stacked_taxa_frequency_boxplot.qzv"
+      ]
+    },
+
+    "params": {
+      "level": "  The taxonomic level at which the features should be collapsed. All\n    ouput features will have exactly this many levels of taxonomic\n    annotation."
+    }
+  },
+    {
+    "_id": "Diversity",
+    "parent": "Frequency_Tables",
+    "output": {
+      "data": [
+        "alpha_diversity_data.qza"
+      ],
+      "visuals": [
+        "alpha_diversity_boxplots.qzv",
+        "beta_diversity_boxplots_dx.qzv",
+        "empress_pcoa_plot.qzv"
+
+      ]
+    },
+    "params": {
+	  "random_seed":"The random seed to use thoughout the service",
+	  "metrics_sampling_depth":"Sampling depth of the core metrics",
+      "alpha_diversity_metric": "Str % Choices('menhinick', 'michaelis_menten_fit', 'chao1_ci', 'lladser_pe', 'berger_parker_d', 'pielou_e', 'simpson_e', 'simpson', 'goods_coverage', 'robbins', 'gini_index', 'mcintosh_d', 'esty_ci', 'kempton_taylor_q', 'dominance', 'fisher_alpha', 'singles', 'doubles', 'brillouin_d', 'margalef', 'ace', 'chao1', 'osd', 'heip_e', 'mcintosh_e', 'strong', 'shannon', 'observed_features', 'enspie')The alpha diversity metric to be computed. Information about specific  metrics is available at https://data.qiime2.org/a_diversity_metrics",
+	  "beta_diversity":{
+			"method":"Choices('permanova', 'anosim', 'permdisp') The group significance test to be applied.",
+			"pairwise":"Perform pairwise tests? (True or false)",
+			"permutations":"the number of permutations when computing p-values"
+		},
+	  "pcoa":{
+		"number_of_features":"The number of arrows for the biplot significances",
+		"filter_extra_samples":"Filter any samples that are not contained in the metadata",
+		"filter_missing_features":"Remove any featres which are not contained in all the samples",
+		"ignore_missing_samples":"Ignore any samples that are not covered by the above"
+	  }
+		
+    }
+  },
+  {
+    "_id": "Freq_To_Biom",
+    "parent": "Frequency_Tables",
+    "output": {
+      "data": [
+        "out_freq_table.tsv"
+      ],
+      "visuals": null
+    }
+  },
+  {
+    "_id": "Machine_Learning_Data_Prep",
+    "parent": null,
+    "output": {
+      "data": ["classification_data.csv"],
+      "visuals": null
+    },
+    "params": {
+
+    }
+  },
+  {
+    "_id": "Lefse",
+    "parent": "Freq_To_Biom",
+    "output": {
+      "data": ["lefse_in.txt","lefse_data.in","lefse_data.res"],
+      "visuals": [
+        "Lefse_bar.png",
+        "Lefse_Cladogram.svg"
+      ]
+    }
+  },
+  {
+    "_id": "Random_Forest",
+    "parent": "Machine_Learning_Data_Prep",
+    "output": {
+      "data": ["random_forest_report.txt"],
+      "visuals": [
+        "random_forest_auroc.png",
+		"random_forest_precision_recal.png",
+		"RF_confusion_matrix.png"
+      ]
+    },
+    "params": {
+      "random_seed": "The random seed to use for all experiments",
+      "k_fold": {
+        "num_folds": "The number of k-folds to perform",
+        "shuffle": "Boolean, wheter to perform sample shuffling"
+      },
+      "random_forest":"See the sickit learn randomforest claffier params"
+    }
+  }
+]
