@@ -27,7 +27,7 @@ And an external Volume for the mongodb database
 In order to deploy this pipeline first clone the github repository.
 Then navigate to the root folder of the project. You many need to make a folder named PipelineOutput if it does not already exist.
 
-Additionaly you must also download the taxanomic classifier files from this onedrive link:
+Additionaly you must also download the taxanomic classifiers files from this onedrive link:
 
 https://1drv.ms/u/s!Aus7JUVmM6BTgbsirlMW6ddWK-bn7Q?e=wNHBJD
 
