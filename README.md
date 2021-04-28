@@ -10,7 +10,14 @@ https://www.docker.com/.
 
 ## Deployment Instructions
 In order to deploy this pipeline first clone the github repository.
-Then navigate to the root folder of the project
+Then navigate to the root folder of the project. You many need to make a folder named PipelineOutput if it does not already exist.
+
+Additionaly you must also download the taxanomic classifier files from this onedrive link:
+
+https://1drv.ms/u/s!Aus7JUVmM6BTgbsirlMW6ddWK-bn7Q?e=wNHBJD
+
+Place these files in the `qiime2` folder in a subfolder called `sklearn_classifier` these files are quite large so they
+might take a while to download.
 
 ### Sample Downloading and metadata entry
 To download the samples you  must run a separate set of containers which download the samples from the ENA and add them
@@ -65,8 +72,16 @@ You can also connect to the DB by attaching a bash to the docker container while
 `mongo` you can get access to the mongo db shell. All data is stored in the "metagenomic" database which can be selected
 with the command `use metagenomic`.
 
-# Additional
+## Pre procesed results
+The pipelineOuput folder contains the primary results generated as part of the case study for the project write up.
+The means you do not need to process this pipeline to see the results. 
+
+# Additional Information
 Service monitoring noted in the write up for this project was performed using CAdvisor and Prometheus these containers
 were added to the docker compose file and were accessed using there web based uis. The service definitions for these
 are included in the additional folder under `ResourceMonitor`
+
+Some of the services provide such as Taxonomic classification are extremely resource intensive and can take up to 40 GB 
+of ram and take over 30 minutes please be aware.
+
 For any futher questions email billy.brookes.thornton@gmail.com
